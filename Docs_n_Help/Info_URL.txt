@@ -1,0 +1,12 @@
+1. PhoneGap Support team 
+	https://forums.adobe.com/community/phonegap/build
+2. PhoneGap supported versions
+	https://build.phonegap.com/current-support
+3. PhoneGap Documents
+	http://docs.phonegap.com/phonegap-build/
+4. Tutorial
+	http://docs.phonegap.com/getting-started/
+	https://cordova.apache.org/docs/en/4.0.0/guide/overview/index.html
+	https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview
+	
+	

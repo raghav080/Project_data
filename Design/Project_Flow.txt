@@ -1,0 +1,11 @@
+Project Tasks/Flow
+
+1. Learn JavaScript/HTML/CSS
+2. Learn Android programming basics
+3. Learn Phonegap or any other hybrid programming 
+4. Design project 
+5. Implementation of project
+6. Error and Exception handling 
+7. Testing the app
+8. Performance Improvement
+9. Verify user friendliness

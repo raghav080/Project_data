@@ -8,6 +8,7 @@
 	http://docs.phonegap.com/getting-started/
 	https://cordova.apache.org/docs/en/4.0.0/guide/overview/index.html
 	https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview
+	makeappicon.com -- for creating app icons
 	
 https://www.spaceotechnologies.com/build-food-delivery-app-technologies-mobile-app-developers/
 

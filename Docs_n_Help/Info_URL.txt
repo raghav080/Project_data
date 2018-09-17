@@ -9,4 +9,8 @@
 	https://cordova.apache.org/docs/en/4.0.0/guide/overview/index.html
 	https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview
 	
-	
+https://www.spaceotechnologies.com/build-food-delivery-app-technologies-mobile-app-developers/
+
+https://www.youtube.com/playlist?list=PLYXmfeMITiJlmPHdBXqwE87kwWf-EcxJL
+
+https://www.tutorialspoint.com/phonegap/
